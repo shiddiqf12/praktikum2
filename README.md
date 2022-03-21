@@ -18,4 +18,16 @@ Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
  ![3](https://user-images.githubusercontent.com/73062038/159247146-3d835fec-facf-4c4f-aa3b-326a13dbe635.jpg)
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.'
   ![3B](https://user-images.githubusercontent.com/73062038/159246902-8a4b0877-01b3-412f-b4fc-c217448e040c.jpeg)
-
+# 4 Membuat CSS Eksternal
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
+  ![4a](https://user-images.githubusercontent.com/73062038/159319373-2202554a-70e6-467a-b28c-b1a7864930b2.jpg)
+Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head>
+![4b](https://user-images.githubusercontent.com/73062038/159319994-9fe1cf08-69e6-4fab-bf05-5e6582e597aa.jpg)
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+  ![4c](https://user-images.githubusercontent.com/73062038/159320261-2771def1-f5d5-4298-bf0b-fe9eab6b3a8b.jpg)
+# 5. Menambahkan CSS Selector
+Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file
+style_eksternal.css, tambahkan kode
+  ![5a](https://user-images.githubusercontent.com/73062038/159322351-205eaf17-4c2d-4760-8251-3d36dc4c6510.jpg)
+  Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+  ![5b](https://user-images.githubusercontent.com/73062038/159322513-28ea5cca-5b81-482e-955f-6ece7528cfae.jpg)
