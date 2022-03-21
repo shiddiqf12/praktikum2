@@ -15,7 +15,7 @@ hasilnya.
 ![2B](https://user-images.githubusercontent.com/73062038/159244208-3cec09a4-cb3d-43ef-b75c-73142053b543.jpg)
 # 3 Menambahkan Inline CSS
 Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
-  ![3A](https://user-images.githubusercontent.com/73062038/159246720-bfe55d06-5ea4-4a7f-ab78-2297cf409a28.png)
+ ![3](https://user-images.githubusercontent.com/73062038/159247146-3d835fec-facf-4c4f-aa3b-326a13dbe635.jpg)
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.'
   ![3B](https://user-images.githubusercontent.com/73062038/159246902-8a4b0877-01b3-412f-b4fc-c217448e040c.jpeg)
 
